@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.5f361e03.chunk.css",
-    "main.js": "/repository-name/static/js/main.ecbe37c7.chunk.js",
-    "main.js.map": "/repository-name/static/js/main.ecbe37c7.chunk.js.map",
-    "runtime-main.js": "/repository-name/static/js/runtime-main.594016d5.js",
-    "runtime-main.js.map": "/repository-name/static/js/runtime-main.594016d5.js.map",
-    "static/js/2.2c7a8cfe.chunk.js": "/repository-name/static/js/2.2c7a8cfe.chunk.js",
-    "static/js/2.2c7a8cfe.chunk.js.map": "/repository-name/static/js/2.2c7a8cfe.chunk.js.map",
-    "index.html": "/repository-name/index.html",
-    "precache-manifest.c4f3671b82d6c35c49ff73fce95134df.js": "/repository-name/precache-manifest.c4f3671b82d6c35c49ff73fce95134df.js",
-    "service-worker.js": "/repository-name/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/repository-name/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.2c7a8cfe.chunk.js.LICENSE.txt": "/repository-name/static/js/2.2c7a8cfe.chunk.js.LICENSE.txt"
+    "main.css": "/Assignment-6-Decrement/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Assignment-6-Decrement/static/js/main.bfe57502.chunk.js",
+    "main.js.map": "/Assignment-6-Decrement/static/js/main.bfe57502.chunk.js.map",
+    "runtime-main.js": "/Assignment-6-Decrement/static/js/runtime-main.07f36af3.js",
+    "runtime-main.js.map": "/Assignment-6-Decrement/static/js/runtime-main.07f36af3.js.map",
+    "static/js/2.2c7a8cfe.chunk.js": "/Assignment-6-Decrement/static/js/2.2c7a8cfe.chunk.js",
+    "static/js/2.2c7a8cfe.chunk.js.map": "/Assignment-6-Decrement/static/js/2.2c7a8cfe.chunk.js.map",
+    "index.html": "/Assignment-6-Decrement/index.html",
+    "precache-manifest.c98823e913e532c3c16465e24c6a4e26.js": "/Assignment-6-Decrement/precache-manifest.c98823e913e532c3c16465e24c6a4e26.js",
+    "service-worker.js": "/Assignment-6-Decrement/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Assignment-6-Decrement/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2c7a8cfe.chunk.js.LICENSE.txt": "/Assignment-6-Decrement/static/js/2.2c7a8cfe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.594016d5.js",
+    "static/js/runtime-main.07f36af3.js",
     "static/js/2.2c7a8cfe.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ecbe37c7.chunk.js"
+    "static/js/main.bfe57502.chunk.js"
   ]
 }
